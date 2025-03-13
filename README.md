@@ -2,7 +2,7 @@
 I'm a Data Analyst & Machine Learning Enthusiast and biologist, currently working full-time as a Data Analyst | Bioinformatics scientist while pursuing my Master’s in Computer Science (OMSCS). My expertise spans across data analysis, machine learning, reporting, database design, data modeling, and bioinformatics. I love solving complex problems by leveraging data and algorithms to drive meaningful insights.
 
 ## 🚀 Projects
-Welcome to my portfolio, where I showcase my projects.
+Welcome to my portfolio, where I showcase my <a href="[https://github.com/shuwangs/Portfolio" target="_blank">projects</a>.
 
 ## 🛠️ Tools
 - Language: SQL, Python, R, C, Linux, HTML, CSS, Javascript

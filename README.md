@@ -12,5 +12,5 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/shuwa
 ## 🐱 About My Cat
 When I'm not analyzing data or coding, I’m usually hanging out with my cat, Bobo. He takes his role as my “pair programmer” very seriously—often sitting on my keyboard at crucial debugging moments. 🐾
 ## 📬 Connect with Me
-- Linkedin
+- [Linkedin](https://www.linkedin.com/in/shuuwang/)
 - Let’s Collaborate! Open to discussions on ML, bioinformatics, and data-driven projects.

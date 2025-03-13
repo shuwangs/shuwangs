@@ -1,4 +1,4 @@
-# Hi, I'am Shu Wang! 
+# Hi, I'am Shu Wang! 😺
 I'm a Data Analyst & Machine Learning Enthusiast and biologist, currently working full-time as a Data Analyst | Bioinformatics scientist while pursuing my Master’s in Computer Science (OMSCS). My expertise spans across data analysis, machine learning, reporting, database design, data modeling, and bioinformatics. I love solving complex problems by leveraging data and algorithms to drive meaningful insights.
 
 ## 🚀 Projects

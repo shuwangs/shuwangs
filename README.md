@@ -1,11 +1,11 @@
-# Introducing Myself 
-I'm a Data Analyst & Machine Learning Enthusiast, currently working full-time in bioinformatics while pursuing my Master’s in Computer Science (OMSCS). My expertise spans across data analysis, machine learning, reporting, database design, data modeling, and bioinformatics. I love solving complex problems by leveraging data and algorithms to drive meaningful insights.
+# Hi, I'am Shu Wang! 
+I'm a Data Analyst & Machine Learning Enthusiast and biologist, currently working full-time as a Data Analyst|Bioinformatics scientist while pursuing my Master’s in Computer Science (OMSCS). My expertise spans across data analysis, machine learning, reporting, database design, data modeling, and bioinformatics. I love solving complex problems by leveraging data and algorithms to drive meaningful insights.
 
-## Projects
+## 🚀 Projects
 Welcome to my portfolio, where I showcase my projects.
 
-## Tools
-- Language: SQL, Python, R, C, Linux
+## 🛠️ Tools
+- Language: SQL, Python, R, C, Linux, HTML, CSS, Javascript
 - Database: MySQL
 - Visualization: R studio Python
 - Machine Learning: Scikit-learn, TensorFlow, PyTorch

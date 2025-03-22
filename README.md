@@ -19,7 +19,7 @@ What drives me is solving complex real-world problems by combining **algorithms,
 ---
 
 ## 🚀 Projects
-👉 Check out my `practice/` repo for hands-on project work:
+👉 Check out my `portfolio/` repo for hands-on project work:
 - [002 - Hospital Readmission Analysis](https://github.com/shuwangs/practice/tree/main/002-readmission-analysis)
 - [003 - Flask API (Coming Soon)]()
 

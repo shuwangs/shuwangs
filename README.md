@@ -20,8 +20,8 @@ What drives me is solving complex real-world problems by combining **algorithms,
 
 ## 🚀 Projects
 👉 Check out my `portfolio/` repo for hands-on project work:
-- [002 - Hospital Readmission Analysis](https://github.com/shuwangs/practice/tree/main/002-readmission-analysis)
-- [003 - Flask API (Coming Soon)](https://github.com/shuwangs/portfolio/tree/main/003-flask-todo-api)
+- [001 - Hospital Readmission Analysis](https://github.com/shuwangs/practice/tree/main/001-readmission-analysis)
+- [002 - Flask API (Coming Soon)](https://github.com/shuwangs/portfolio/tree/main/002-flask-todo-api)
 
   Coming next: cloud deployment, CI/CD pipelines, and system design practices. 🎯
 

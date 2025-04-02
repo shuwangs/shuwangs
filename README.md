@@ -23,7 +23,7 @@ What drives me is solving complex real-world problems by combining **algorithms,
 - [001 - Hospital Readmission Analysis](https://github.com/shuwangs/practice/tree/main/001-readmission-analysis)
 - [002 -Cross-Platform Todo App (CLI + GUI + Streamlit)](https://github.com/shuwangs/portfolio/tree/main/002-flask-todo-api)
 
-  Coming next: cloud deployment, CI/CD pipelines, and system design practices. 🎯
+  Coming next: Personal website, cloud deployment, CI/CD pipelines, and system design practices. 🎯
 
 ---
 

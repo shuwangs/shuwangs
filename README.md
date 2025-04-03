@@ -6,7 +6,7 @@ I'm in the process of **transitioning into a Software Development Engineer (SDE)
 
 ---
 
-## 🧠 Background
+## 📘 Background
 
 My expertise spans across:
 - 🧬 **Bioinformatics** & scientific computing

@@ -21,9 +21,12 @@ What drives me is solving complex real-world problems by combining **algorithms,
 ## 🚀 Projects
 👉 Check out my `portfolio/` repo for hands-on project work:
 - [001 - Hospital Readmission Analysis](https://github.com/shuwangs/practice/tree/main/001-readmission-analysis)
-- [002 -Cross-Platform Todo App (CLI + GUI + Streamlit)](https://github.com/shuwangs/portfolio/tree/main/002-flask-todo-api)
+- [002 - Cross-Platform Todo App (CLI + GUI + Streamlit)](https://github.com/shuwangs/portfolio/tree/main/002-flask-todo-api)
+- [003 - Personal Portfolio Website](https://github.com/shuwangs/personal-site)  
+  🌍 [Live Site](https://shuwangs.github.io/personal-site/) — A clean, responsive website built with HTML/CSS/JavaScript to showcase my projects and journey.  
 
-  Coming next: Personal website, cloud deployment, CI/CD pipelines, and system design practices. 🎯
+
+  Coming next: Cloud deployment, CI/CD pipelines, and system design practices. 🎯
 
 ---
 

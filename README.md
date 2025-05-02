@@ -33,7 +33,7 @@ I enjoy building tools that are not only functional but also scalable, readable,
 ---
 
 ## 🛠️ Tech Stack
-- Languages: Python, SQL, R, C, Bash, HTML/CSS, JavaScript
+- Languages: Python, SQL, R, C, C++, Java, Bash, HTML/CSS, JavaScript
 - Frameworks & Tools: Flask, FastAPI, Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow
 - Databases: MySQL, SQLite
 -Others: Git, Docker, Linux, VS Code

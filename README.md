@@ -1,20 +1,20 @@
 # 👋 Hi, I'm Shu Wang! 😺
 
-I'm a **Bioinformatics Scientist** and **Machine Learning Enthusiast**, currently working full-time as a Data Analyst & Bioinformatics Scientist, while pursuing my Master’s in Computer Science.
+I'm a Junior Software Engineer and Bioinformatics Scientist with a passion for writing clean, efficient code to solve real-world problems. I currently work full-time in scientific computing while pursuing my M.S. in Computer Science at Georgia Tech.
 
-I'm in the process of **transitioning into a Software Development Engineer (SDE) role**, and this GitHub is where I document that journey — project by project, line by line. 💻🌱
-
+This GitHub is where I showcase my software and data-driven projects — built with curiosity, tested with rigor, and always evolving. 💻🌱
 ---
 
 ## 📘 Background
 
 My expertise spans across:
+- 🧱 Backend logic, APIs, and database design
+- ⚙️ Software engineering principles and system design
 - 🧬 **Bioinformatics** & scientific computing
 - 📊 **Data analysis**, reporting, and visualization
 - 🤖 **Machine learning** and statistical modeling
-- 🗄️ **Database design** and backend logic
 
-What drives me is solving complex real-world problems by combining **algorithms, code, and curiosity**.
+I enjoy building tools that are not only functional but also scalable, readable, and well-documented.
 
 ---
 
@@ -22,7 +22,9 @@ What drives me is solving complex real-world problems by combining **algorithms,
 👉 Check out my `portfolio/` repo for hands-on project work:
 - [001 - Hospital Readmission Analysis](https://github.com/shuwangs/practice/tree/main/001-readmission-analysis)
 - [002 - Cross-Platform Todo App (CLI + GUI + Streamlit)](https://github.com/shuwangs/portfolio/tree/main/002-flask-todo-api)
-- [003 - Personal Portfolio Website](https://github.com/shuwangs/personal-site)  
+- [003 - Personal Portfolio Website](https://github.com/shuwangs/personal-site)
+- [004 - PDF Maker](https://github.com/shuwangs/portfolio/tree/main/004-pdf-maker)
+  
   🌍 [Live Site](https://shuwangs.github.io/personal-site/) — A clean, responsive website built with HTML/CSS/JavaScript to showcase my projects and journey.  
 
 
@@ -30,12 +32,11 @@ What drives me is solving complex real-world problems by combining **algorithms,
 
 ---
 
-## 🛠️ Tools
-**Languages**: Python, SQL, R, C, Bash, HTML/CSS, JavaScript  
-**Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
-**Databases**: MySQL, SQLite  
-**Other**: Git, Linux, VS Code, Flask, FastAPI
-
+## 🛠️ Tech Stack
+Languages: Python, SQL, R, C, Bash, HTML/CSS, JavaScript
+Frameworks & Tools: Flask, FastAPI, Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow
+Databases: MySQL, SQLite
+Others: Git, Docker, Linux, VS Code
 ---
 
 ## 🐱 About My Cat
@@ -52,4 +53,4 @@ When I'm not coding or analyzing data, I’m usually hanging out with my cat **B
 
 ---
 
-> 💛 Thanks for visiting my GitHub! I'm proud of every small step I take toward becoming an SDE.
+> 💛 Thanks for visiting my GitHub! I'm proud of every small step I have taken in this road.

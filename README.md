@@ -24,6 +24,7 @@ I enjoy building tools that are not only functional but also scalable, readable,
 - [002 - Cross-Platform Todo App (CLI + GUI + Streamlit)](https://github.com/shuwangs/portfolio/tree/main/002-flask-todo-api)
 - [003 - Personal Portfolio Website](https://github.com/shuwangs/personal-site)
 - [004 - PDF Maker](https://github.com/shuwangs/portfolio/tree/main/004-pdf-maker)
+- [005 - Excel Invoice to PDF Generator](https://github.com/shuwangs/portfolio/tree/main/005-excel-to-pdf-invoice)
   
   🌍 [Live Site](https://shuwangs.github.io/personal-site/) — A clean, responsive website built with HTML/CSS/JavaScript to showcase my projects and journey.  
 

@@ -28,7 +28,7 @@ I enjoy building tools that are not only functional but also scalable, readable,
 - [004 - PDF Maker](https://github.com/shuwangs/portfolio/tree/main/004-pdf-maker)
 - [005 - Excel to PDF Invoice Generator](https://github.com/shuwangs/portfolio/tree/main/005-excel-to-pdf-invoice)
 - [006 - Emailing Daily News from API](https://github.com/shuwangs/portfolio/tree/main/006-Emailing-dail-news-from-API)
-- [007 - Weather Forecast Dashboard] Ongoing (#)
+- [007 - Weather Data API] Ongoing (#)
   
   
 

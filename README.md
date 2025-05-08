@@ -3,6 +3,7 @@
 I'm a Junior Software Engineer and Bioinformatics Scientist with a passion for writing clean, efficient code to solve real-world problems. I currently work full-time in scientific computing while pursuing my M.S. in Computer Science at Georgia Tech.
 
 This GitHub is where I showcase my software and data-driven projects — built with curiosity, tested with rigor, and always evolving. 💻🌱
+
 ---
 
 ## 📘 Background

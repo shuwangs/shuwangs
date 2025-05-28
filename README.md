@@ -28,7 +28,13 @@ I enjoy building tools that are not only functional but also scalable, readable,
 - [004 - PDF Maker](https://github.com/shuwangs/portfolio/tree/main/004-pdf-maker)
 - [005 - Excel to PDF Invoice Generator](https://github.com/shuwangs/portfolio/tree/main/005-excel-to-pdf-invoice)
 - [006 - Emailing Daily News from API](https://github.com/shuwangs/portfolio/tree/main/006-Emailing-dail-news-from-API)
-- [007 - Weather Data API] Ongoing (#)
+- [007 - Weather Data API](https://github.com/shuwangs/portfolio/tree/main/007-weather-data-api)
+- [008 - Weather Forecast Dashboard](https://github.com/shuwangs/portfolio/tree/main/008-weather-forecast-for-the-next-days)
+- [009 - NLP for ebook](https://github.com/shuwangs/portfolio/tree/main/009-nlp-for-ebook)
+- [010 - Amazon Clone] Ongoing(https://github.com/shuwangs/portfolio/tree/main/010-full-stack-amazon-clone/amazon-clone)
+      🌍 [Live Demo](https://amzaon-clone-4bb41.web.app) — Feel free to explore, but **please do not attempt real payments**😄.
+
+
   
   
 
@@ -40,9 +46,9 @@ I enjoy building tools that are not only functional but also scalable, readable,
 
 ## 🛠️ Tech Stack
 - Languages: Python, SQL, R, C, C++, Java, Bash, HTML/CSS, JavaScript
-- Frameworks & Tools: Flask, FastAPI, Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow
+- Frameworks & Tools: React, Flask, FastAPI, Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow
 - Databases: MySQL, SQLite
--Others: Git, Docker, Linux, VS Code
+- Others: Git, Docker, Linux, VS Code
 
 ---
 

@@ -9,7 +9,7 @@ This GitHub is where I showcase my software and data-driven projects — built w
 ## 📘 Background
 
 My expertise spans across:
-- 🧱 Backend logic, APIs, and database design
+- 🧱 Full Stack, Backend logic, APIs, and database design
 - ⚙️ Software engineering principles and system design
 - 🧬 **Bioinformatics** & scientific computing
 - 📊 **Data analysis**, reporting, and visualization

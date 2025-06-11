@@ -31,7 +31,7 @@ I enjoy building tools that are not only functional but also scalable, readable,
 - [007 - Weather Data API](https://github.com/shuwangs/portfolio/tree/main/007-weather-data-api)
 - [008 - Weather Forecast Dashboard](https://github.com/shuwangs/portfolio/tree/main/008-weather-forecast-for-the-next-days)
 - [009 - NLP for ebook](https://github.com/shuwangs/portfolio/tree/main/009-nlp-for-ebook)
-- [010 - Amazon Clone] (https://github.com/shuwangs/portfolio/tree/main/010-full-stack-amazon-clone/amazon-clone)
+- [010 - Amazon Clone](https://github.com/shuwangs/portfolio/tree/main/010-full-stack-amazon-clone/amazon-clone)
       🌍 [Live Demo](https://amzaon-clone-4bb41.web.app/) — Feel free to explore, but **please do not attempt real payments**😄.
 
 

@@ -21,17 +21,8 @@ I enjoy building tools that are not only functional but also scalable, readable,
 
 ## 🚀 Projects
 👉 Check out my `portfolio/` repo for hands-on project work:
-- [001 - Hospital Readmission Analysis](https://github.com/shuwangs/practice/tree/main/001-readmission-analysis)
-- [002 - Cross-Platform Todo App (CLI + GUI + Streamlit)](https://github.com/shuwangs/portfolio/tree/main/002-flask-todo-api)
-- [003 - Personal Portfolio Website](https://github.com/shuwangs/personal-site)
-    🌍 [Live Site](https://shuwangs.github.io/personal-site/) — A clean, responsive website built with HTML/CSS/JavaScript to showcase my projects and journey.  
-- [004 - PDF Maker](https://github.com/shuwangs/portfolio/tree/main/004-pdf-maker)
-- [005 - Excel to PDF Invoice Generator](https://github.com/shuwangs/portfolio/tree/main/005-excel-to-pdf-invoice)
-- [006 - Emailing Daily News from API](https://github.com/shuwangs/portfolio/tree/main/006-Emailing-dail-news-from-API)
-- [007 - Weather Data API](https://github.com/shuwangs/portfolio/tree/main/007-weather-data-api)
-- [008 - Weather Forecast Dashboard](https://github.com/shuwangs/portfolio/tree/main/008-weather-forecast-for-the-next-days)
-- [009 - NLP for ebook](https://github.com/shuwangs/portfolio/tree/main/009-nlp-for-ebook)
-- [010 - Amazon Clone](https://github.com/shuwangs/portfolio/tree/main/010-full-stack-amazon-clone/amazon-clone)
+
+- [001 - Amazon Clone](https://github.com/shuwangs/portfolio/tree/main/010-full-stack-amazon-clone/amazon-clone)
       🌍 [Live Demo](https://amzaon-clone-4bb41.web.app/) — Feel free to explore, but **please do not attempt real payments**😄.
 
 

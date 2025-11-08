@@ -45,7 +45,7 @@ I enjoy building tools that are not only functional but also scalable, readable,
 
 ## 🐱 About My Cat
 
-When I'm not coding or analyzing data, I’m usually hanging out with my cat **Bobo**, who’s taken his role as my “pair programmer” very seriously — especially when I'm debugging 🐾
+When I'm not coding, I’m usually hanging out with my cat **Bobo**, who’s taken his role as my “pair programmer” very seriously — especially when I'm debugging 🐾
 
 --- 
 
@@ -53,7 +53,7 @@ When I'm not coding or analyzing data, I’m usually hanging out with my cat **B
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shuuwang/)
 - 💌 swang3130@gatech.edu  
-- 🤝 Open to SDE opportunities, collaborations on ML/bioinformatics, or just geeking out about Python!
+- 🤝 Open to SDE opportunities, collaborations on ML/bioinformatics, or just geeking out about coding!
 
 ---
 

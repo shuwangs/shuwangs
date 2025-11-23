@@ -10,7 +10,7 @@ This GitHub is where I explore ideas, build tools, and continuously refine my en
 ### 🌐 Portfolio Website
 A fully responsive personal website showcasing my software engineering and data projects.
 **Tech**: HTML, CSS, JavaScript, BootStrap   
-🔗 [Live Demo](https://shuwangs.github.io/portfolio-website/])  
+🔗 [Live Demo](https://shuwangs.github.io/portfolio-website/)  
 📁 Code: [site](https://github.com/shuwangs/portfolio-website)
 
 ### 🔹 More Projects

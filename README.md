@@ -1,38 +1,26 @@
 # 👋 Hi, I'm Shu Wang! 😺
 
-I'm a Junior Software Engineer transitioning from Bioinformatics Scientist with a passion for writing clean, efficient code to solve real-world problems. I currently work full-time in scientific computing while pursuing my M.S. in Computer Science at Georgia Tech.
+I'm a **Junior Software Engineer** passionate about building clean, scalable, and user-friendly software. I’m currently pursuing my **M.S. in Computer Science at Georgia Tech** and training as a **Web Developer at Techtonica**.
 
-This GitHub is where I showcase my software and data-driven projects — built with curiosity, tested with rigor, and always evolving. 💻🌱
-
----
-
-## 📘 Background
-
-My expertise spans across:
-- 🧱 Full Stack, Backend logic, APIs, and database design
-- ⚙️ Software engineering principles and system design
-- 🧬 **Bioinformatics** & scientific computing
-- 📊 **Data analysis**, reporting, and visualization
-- 🤖 **Machine learning** and statistical modeling
-
-I enjoy building tools that are not only functional but also scalable, readable, and well-documented.
+This GitHub is where I explore ideas, build tools, and continuously refine my engineering skills. 💻🌱
 
 ---
 
-## 🚀 Projects
-👉 Check out my `portfolio/` repo for hands-on project work:
+## 🚀Featured Projects
+### 🌐 Portfolio Website
+A fully responsive personal website showcasing my software engineering and data projects.
+**Tech**: HTML, CSS, JavaScript, BootStrap   
+🔗 [Live Demo](https://shuwangs.github.io/portfolio-website/])  
+📁 Code: [site](https://github.com/shuwangs/portfolio-website)
 
-- [001 - Amazon Clone](https://github.com/shuwangs/portfolio/tree/main/010-full-stack-amazon-clone/amazon-clone)
-      🌍 [Live Demo](https://amzaon-clone-4bb41.web.app/) — Feel free to explore, but **please do not attempt real payments**😄.
+### 🔹 More Projects
+Browse the full collection at:  
+👉 [`portfolio/` directory](https://github.com/shuwangs/portfolio)🎯
 
-
+Coming soon:
+- 🐱 StudyCat — A productivity Chrome extension featuring a virtual pet companion
+- 🤖 JobBuddy — Smart resume–job matching tool with parsing & scoring
   
-  
-
-
-
-  Coming next: Cloud deployment, CI/CD pipelines, and system design practices. 🎯
-
 ---
 
 ## 🛠️ Tech Stack

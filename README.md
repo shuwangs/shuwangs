@@ -18,6 +18,7 @@ Browse the full collection at:
 👉 [`portfolio/` directory](https://github.com/shuwangs/portfolio)🎯
 
 Coming soon:
+- 🔤 Boggle word game or Guess the number
 - 🐱 StudyCat — A productivity Chrome extension featuring a virtual pet companion
 - 🤖 JobBuddy — Smart resume–job matching tool with parsing & scoring
   

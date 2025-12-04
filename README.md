@@ -21,7 +21,7 @@ Features custom board generation, scoring rules, a timer, and live dictionary va
 
 **Tech**: HTML, CSS, JavaScript，API  
 
-🔗 [Live Demo](https://boggleplay.vercel.app/）  
+🔗 [Live Demo](https://boggleplay.vercel.app/)  
 📁 Source Code: [site](https://github.com/shuwangs/techtonica-assignments/tree/main/projects/js-html-game)  
 
 ### 🔹 More Projects

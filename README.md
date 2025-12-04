@@ -8,17 +8,27 @@ This GitHub is where I explore ideas, build tools, and continuously refine my en
 
 ## 🚀Featured Projects
 ### 🌐 Portfolio Website
-A fully responsive personal website showcasing my software engineering and data projects.
+A fully responsive personal website showcasing my software engineering and data projects.  
+
 **Tech**: HTML, CSS, JavaScript, BootStrap   
+
 🔗 [Live Demo](https://shuwangs.github.io/portfolio-website/)  
-📁 Code: [site](https://github.com/shuwangs/portfolio-website)
+📁 Source Code: [site](https://github.com/shuwangs/portfolio-website)
+
+### 🔠 Boggle game
+🎮 A fast-paced word-finding puzzle game where players select adjacent letters to form words before time runs out.
+Features custom board generation, scoring rules, a timer, and live dictionary validation.
+
+**Tech**: HTML, CSS, JavaScript，API  
+
+🔗 [Live Demo](https://boggleplay.vercel.app/）  
+📁 Source Code: [site](https://github.com/shuwangs/techtonica-assignments/tree/main/projects/js-html-game)  
 
 ### 🔹 More Projects
 Browse the full collection at:  
 👉 [`portfolio/` directory](https://github.com/shuwangs/portfolio)🎯
 
-Coming soon:
-- 🔤 Boggle word game or Guess the number
+### Coming soon:
 - 🐱 StudyCat — A productivity Chrome extension featuring a virtual pet companion
 - 🤖 JobBuddy — Smart resume–job matching tool with parsing & scoring
   

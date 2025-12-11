@@ -12,7 +12,7 @@ A fully responsive personal website showcasing my software engineering and data 
 
 **Tech**: HTML, CSS, JavaScript, BootStrap   
 
-🔗 [Live Demo](shu-su-wang.vercel.app)  
+🔗 [Live Demo](https://shu-su-wang.vercel.app/)
 📁 Source Code: [site](https://github.com/shuwangs/portfolio-website)
 
 ### 🔠 Boggle game

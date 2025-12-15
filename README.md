@@ -1,64 +1,84 @@
-# 👋 Hi, I'm Shu Wang! 😺
+<div align="center">
 
-I'm a **Junior Software Engineer** passionate about building clean, scalable, and user-friendly software. I’m currently pursuing my **M.S. in Computer Science at Georgia Tech** and training as a **Web Developer at Techtonica**.
-
-This GitHub is where I explore ideas, build tools, and continuously refine my engineering skills. 💻🌱
-
----
-
-## 🚀Featured Projects
-### 🌐 Portfolio Website
-A fully responsive personal website showcasing my software engineering and data projects.  
-
-**Tech**: HTML, CSS, JavaScript, BootStrap   
-
-🔗 [Live Demo](https://shu-su-wang.vercel.app/)
-📁 Source Code: [site](https://github.com/shuwangs/portfolio-website)
-
-### 🔠 Boggle game
-🎮 A fast-paced word-finding puzzle game where players select adjacent letters to form words before time runs out.
-Features custom board generation, scoring rules, a timer, and live dictionary validation.
-
-**Tech**: HTML, CSS, JavaScript，API  
-
-🔗 [Live Demo](https://boggleplay.vercel.app/)  
-📁 Source Code: [site](https://github.com/shuwangs/techtonica-assignments/tree/main/projects/js-html-game)  
-
-### 🔹 More Projects
-Browse the full collection at:  
-👉 [`portfolio/` directory](https://github.com/shuwangs/portfolio)🎯
-
-### Coming soon:
-- (In progress) Focus! Purr-grammer - A simple React game  
-  📁 Source Code: [site](https://github.com/shuwangs/techtonica-assignments/tree/main/projects/focus_purr-grammer)
+  <h1>Hi there, I'm Shu Wang! 👋</h1>
   
-- (In progress)  🐱 StudyCat — A productivity Chrome extension featuring a virtual pet companion  
- 📁 Source Code: [site](https://github.com/shuwangs/study_cat)
- 
-- 🤖 JobBuddy — Job details parsing and db management
- 
----
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Junior+Software+Engineer;M.S.+CS+Student+%40+Georgia+Tech;Web+Developer+Trainee+%40+Techtonica" alt="Typing SVG" />
+  </a>
 
-## 🛠️ Tech Stack
-- Languages: Python, SQL, R, C, C++, Java, Bash, HTML/CSS, JavaScript
-- Frameworks & Tools: React, Flask, FastAPI, Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow
-- Databases: MySQL, SQLite
-- Others: Git, Docker, Linux, VS Code
+  <p>
+    Passionate about building clean, scalable, and user-friendly software. 
+    <br>
+    Currently exploring ideas, building tools, and refining my engineering skills. 🖥️ 🌱
+  </p>
 
----
-
-## 🐱 About My Cat
-
-When I'm not coding, I’m usually hanging out with my cat **Bobo**, who’s taken his role as my “pair programmer” very seriously — especially when I'm debugging 🐾
-
---- 
-
-## 📬 Let's Connect!
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shuuwang/)
-- 💌 swang3130@gatech.edu  
-- 🤝 Open to SDE opportunities, collaborations on ML/bioinformatics, or just geeking out about coding!
+  <p>
+    <a href="https://www.linkedin.com/in/shuuwang/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:YOUR_EMAIL@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://shu-su-wang.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
+    </a>
+  </p>
+</div>
 
 ---
+
+### 🛠️ Languages & Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,r,mysql,html,css,js,react,flask,tensorflow,git,linux,vscode&perline=10" />
+  </a>
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project Preview | Description & Links |
+| :--- | :--- |
+| <img src="https://via.placeholder.com/300x200?text=Portfolio+Site" width="250" /> | **Portfolio Website** 🌐<br>A fully responsive personal website showcasing my software engineering and data projects.<br><br>🛠 **Tech:** `HTML` `CSS` `JavaScript` `React`<br><br>🔗 [**Live Demo**](https://shu-su-wang.vercel.app/) <br>📂 [**Source Code**](https://github.com/shuwangs/portfolio-website) |
+| <img src="https://via.placeholder.com/300x200?text=Boggle+Game" width="250" /> | **Boggle Game** 🎮<br>A fast-paced word-finding puzzle game where players select adjacent letters to form words.<br><br>🛠 **Tech:** `HTML` `CSS` `JavaScript`<br><br>🔗 [**Live Demo**](https://boggleplay.vercel.app/) <br>📂 [**Source Code**](https://github.com/shuwangs/techtonica-assignments/tree/main/projects/js-html-game) |
+
+<br>
+
+### 🚧 Works in Progress (Coming Soon)
+
+I'm currently cooking up these projects:
+
+* **Focus! Purr-grammer** 🐱
+    * A simple React productivity game.
+    * 📂 [Source Code](https://github.com/shuwangs/techtonica-assignments/tree/main/projects/focus_purr-grammer)
+* **StudyCat** 🧩
+    * A productivity Chrome extension featuring a virtual pet companion.
+    * 📂 [Source Code](https://github.com/shuwangs/study_cat)
+* **JobBuddy** 🤖
+    * Automated job details parsing and database management tool.
+
+---
+
+### 🐱 About My Cat
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl5YjF6Znc0ZnJ6Nnd6b2Z6b3Z6b3Z6b3Z6b3Z6b3Z6b3Z6/JIX9t2j0ZHEth6s9E/giphy.gif" width="100" />
+  <p>
+    When I'm not coding, I’m usually hanging out with my cat <b>Bobo</b>. <br>
+    He's taken his role as my “pair programmer” very seriously — especially when I'm debugging! 🐾
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shuwangs&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuwangs&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
 
 > 💛 Thanks for visiting my GitHub! I'm proud of every small step I have taken in this road.

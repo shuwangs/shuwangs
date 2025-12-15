@@ -35,7 +35,7 @@ Browse the full collection at:
 - (In progress)  🐱 StudyCat — A productivity Chrome extension featuring a virtual pet companion  
  📁 Source Code: [site](https://github.com/shuwangs/study_cat)
  
-- 🤖 JobBuddy — Smart resume–job matching tool with parsing & scoring
+- 🤖 JobBuddy — Job details parsing and db management
  
 ---
 

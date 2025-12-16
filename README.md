@@ -41,8 +41,8 @@
 
 | Project Preview | Description & Links |
 | :--- | :--- |
-| <img src="https://via.placeholder.com/300x200?text=Portfolio+Site" width="250" /> | **Portfolio Website** 🌐<br>A fully responsive personal website showcasing my software engineering and data projects.<br><br>🛠 **Tech:** `HTML` `CSS` `JavaScript` `React`<br><br>🔗 [**Live Demo**](https://shu-su-wang.vercel.app/) <br>📂 [**Source Code**](https://github.com/shuwangs/portfolio-website) |
-| <img src="https://via.placeholder.com/300x200?text=Boggle+Game" width="250" /> | **Boggle Game** 🎮<br>A fast-paced word-finding puzzle game where players select adjacent letters to form words.<br><br>🛠 **Tech:** `HTML` `CSS` `JavaScript`<br><br>🔗 [**Live Demo**](https://boggleplay.vercel.app/) <br>📂 [**Source Code**](https://github.com/shuwangs/techtonica-assignments/tree/main/projects/js-html-game) |
+| <img src="./assets/images/CatIcon.svg" width="150" /> | **Portfolio Website** 🌐<br>A fully responsive personal website showcasing my software engineering and data projects.<br><br>🛠 **Tech:** `HTML` `CSS` `JavaScript` `React`<br><br>🔗 [**Live Demo**](https://shu-su-wang.vercel.app/) <br>📂 [**Source Code**](https://github.com/shuwangs/portfolio-website) |
+| <img src="./assets/images/boggle_preview_small.jpg" width="150" /> | **Boggle Game** 🎮<br>A fast-paced word-finding puzzle game where players select adjacent letters to form words.<br><br>🛠 **Tech:** `HTML` `CSS` `JavaScript`<br><br>🔗 [**Live Demo**](https://boggleplay.vercel.app/) <br>📂 [**Source Code**](https://github.com/shuwangs/techtonica-assignments/tree/main/projects/js-html-game) |
 
 <br>
 

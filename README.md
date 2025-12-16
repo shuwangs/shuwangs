@@ -40,9 +40,10 @@
 ### 🚀 Featured Projects
 
 | Project Preview | Description & Links |
-| :--- | :--- |
+| :---------------------------------------------------- | :----------------------------------------------------------- |
 | <img src="./assets/images/CatIcon.svg" width="150" /> | **Portfolio Website** 🌐<br>A fully responsive personal website showcasing my software engineering and data projects.<br><br>🛠 **Tech:** `HTML` `CSS` `JavaScript` `React`<br><br>🔗 [**Live Demo**](https://shu-su-wang.vercel.app/) <br>📂 [**Source Code**](https://github.com/shuwangs/portfolio-website) |
-| <img src="./assets/images/boggle_preview_small.jpg" width="150" /> | **Boggle Game** 🎮<br>A fast-paced word-finding puzzle game where players select adjacent letters to form words.<br><br>🛠 **Tech:** `HTML` `CSS` `JavaScript`<br><br>🔗 [**Live Demo**](https://boggleplay.vercel.app/) <br>📂 [**Source Code**](https://github.com/shuwangs/techtonica-assignments/tree/main/projects/js-html-game) |
+| <img src="./assets/images/CatIcon.svg" width="150" /> | **Focus! Purr-grammer** 🐱<br>A react game that a cat programer is fixing the bugs and errors. <br><br>🛠 **Tech:** `HTML` `CSS` `JavaScript` `React`<br><br>🔗 [**Live Demo**](https://shu-su-wang.vercel.app/) <br>📂 [**Source Code**](https://github.com/shuwangs/techtonica-assignments/tree/main/projects/focus_purr-grammer) |
+| <img src="./assets/images/boggle_preview_small.jpg" width="150" /> | **Boggle Game** 🎮<br>A fast-paced word-finding puzzle game where players select adjacent letters to form words.<br><br>🛠 **Tech:** `HTML` `CSS` `JavaScript`<br><br>🔗 [**Live Demo**](https://focus-purr-grammer.vercel.app/) <br>📂 [**Source Code**](https://github.com/shuwangs/techtonica-assignments/tree/main/projects/js-html-game) |
 
 <br>
 
@@ -50,9 +51,6 @@
 
 I'm currently cooking up these projects:
 
-* **Focus! Purr-grammer** 🐱
-    * A simple React productivity game.
-    * 📂 [Source Code](https://github.com/shuwangs/techtonica-assignments/tree/main/projects/focus_purr-grammer)
 * **StudyCat** 🧩
     * A productivity Chrome extension featuring a virtual pet companion.
     * 📂 [Source Code](https://github.com/shuwangs/study_cat)

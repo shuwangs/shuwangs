@@ -58,7 +58,8 @@ I'm currently cooking up these projects:
     * 📂 [Source Code](https://github.com/shuwangs/study_cat)
 * **JobBuddy** 🤖
     * Automated job details parsing and database management tool.
-
+    * 📂 [Source Code](https://github.com/shuwangs/JobBuddy)
+      
 ---
 
 ### 🐱 About My Cat

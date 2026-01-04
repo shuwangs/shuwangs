@@ -65,7 +65,7 @@ I'm currently cooking up these projects:
 ### 🐱 About My Cat
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl5YjF6Znc0ZnJ6Nnd6b2Z6b3Z6b3Z6b3Z6b3Z6b3Z6b3Z6/JIX9t2j0ZHEth6s9E/giphy.gif" width="100" />
+  <img src="assets/images/bobo.jpg" width="100" />
   <p>
     When I'm not coding, I’m usually hanging out with my cat <b>Bobo</b>. <br>
     He's taken his role as my “pair programmer” very seriously — especially when I'm debugging! 🐾

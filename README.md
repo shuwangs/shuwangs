@@ -42,6 +42,7 @@
 | Project Preview | Description & Links |
 | :---------------------------------------------------- | :----------------------------------------------------------- |
 | <img src="./assets/images/portfolio_website.gif" width="150" height="100" /> | **Portfolio Website** 🌐<br>A fully responsive personal website showcasing my software engineering and data projects.<br><br>🛠 **Tech:** `HTML` `CSS` `JavaScript` `React`<br><br>🔗 [**Live Demo**](https://shu-su-wang.vercel.app/) <br>📂 [**Source Code**](https://github.com/shuwangs/portfolio-website) |
+| <img src="./assets/images/weather_app.gif" width="150" /> | **Full-Stack Weather application** 🌤️<br>A full-stack weather app that supports city-based and geolocation-based search, with Redis caching to reduce repeated API calls and improve performance. The UI dynamically adapts to day/night status and indicates whether data is cached or freshly fetched.<br><br>🛠 **Tech:** `React` `Node.js` `Express` `Redis` `REST API`<br><br>🔗 [**Live Demo**](not deployed) <br>📂 [**Source Code**](https://github.com/shuwangs/techtonica-assignments/tree/main/projects/weather-app) |
 | <img src="./assets/images/purr-grammer.gif" width="150" /> | **Focus! Purr-grammer** 🐱<br>A react game that a cat programer is fixing the bugs and errors. <br><br>🛠 **Tech:** `HTML` `CSS` `JavaScript` `React`<br><br>🔗 [**Live Demo**](https://focus-purr-grammer.vercel.app) <br>📂 [**Source Code**](https://github.com/shuwangs/techtonica-assignments/tree/main/projects/focus_purr-grammer) |
 | <img src="./assets/images/boggle_preview_small.jpg" width="150" height="150" /> | **Boggle Game** 🎮<br>A fast-paced word-finding puzzle game where players select adjacent letters to form words.<br><br>🛠 **Tech:** `HTML` `CSS` `JavaScript`<br><br>🔗 [**Live Demo**](https://boggleplay.vercel.app/) <br>📂 [**Source Code**](https://github.com/shuwangs/techtonica-assignments/tree/main/projects/js-html-game) |
 | <img src="./assets/images/peachtree_savings_club.jpg" width="150" height="150" /> | **Peachtree Savings Club Web App (CS6400)** 🏦<br>A full-stack web application designed to manage members, savings accounts, and transactions, with a strong focus on relational database design and query optimization.<br><br>🛠 **Tech:** `SQL` `Python` `Flask`<br><br>🔗 [**Live Demo**](https://www.youtube.com/watch?v=K-tss6z30vo) <br> 📂 [**Source Code**](https://github.com/shuwangs/peachtree-savings-club-demo) ||
@@ -52,14 +53,13 @@
 ### 🚧 Works in Progress (Coming Soon)
 
 I'm currently cooking up these projects:
-
+* **JobBuddy** 🤖 (Dec-2025 - Current)
+    * Automated job details parsing and database management tool.
+    * 📂 [Source Code](https://github.com/shuwangs/JobBuddy)
 * **StudyCat** 🧩
     * A productivity Chrome extension featuring a virtual pet companion.
     * 📂 [Source Code](https://github.com/shuwangs/study_cat)
-* **JobBuddy** 🤖
-    * Automated job details parsing and database management tool.
-    * 📂 [Source Code](https://github.com/shuwangs/JobBuddy)
-      
+
 ---
 
 ### 🐱 About My Cat

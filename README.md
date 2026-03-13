@@ -59,6 +59,17 @@ I'm currently cooking up these projects:
     * 📂 [Source Code](https://github.com/shuwangs/study_cat)
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shuwangs&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=shuwangs&theme=tokyonight" height="170"/>
+
+</p>
+
+---
 
 ### 🐱 About My Cat
 

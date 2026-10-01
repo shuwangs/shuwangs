@@ -2,16 +2,15 @@
 
   <h1>Hi there, I'm Shu Wang! 👋</h1>
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Junior+Software+Engineer;M.S.+CS+Student+%40+Georgia+Tech;Web+Developer+Trainee+%40+Techtonica" alt="Typing SVG" />
-  </a>
-
-  <p>
-    Passionate about building clean, scalable, and user-friendly software. 
-    <br>
-    Currently exploring ideas, building tools, and refining my engineering skills. 🖥️ 🌱
+   <p>
+    <strong>Software Developer Apprentice @ PlayStation</strong><br>
+    M.S. Computer Science Student @ Georgia Tech
   </p>
 
+  <p>
+    I work on Java/Spring backend services and automated payment testing.<br>
+    With a background in bioinformatics and data analysis, I enjoy turning complex problems into useful software.
+  </p>
   <p>
     <a href="https://www.linkedin.com/in/shuuwang/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -26,61 +25,103 @@
 </div>
 
 ---
+### 💼 What I'm Working On
+
+**Sony Interactive Entertainment · PlayStation**  
+Software Developer Apprentice — Payments | August 2026–Present
+
+- Authored **74 automated payment test scenarios for South Korea** as part of a multi-country testing initiative, covering card, wallet, and local payment methods across purchase, refund, and entitlement flows.
+- Investigate payment failures through API responses and transaction records, identifying issues with wallet funding, subscription eligibility, and payment-provider routing.
+- Develop a feature-flagged proof of concept integrating the Payment Method Service with a data access library, including service branching, response mapping, and unit tests.
+- Contribute to Java/Spring service maintenance through dependency remediation and Jenkins integration-test troubleshooting.
+
+### 🌱 My Background
+- **Georgia Tech:** Pursuing an M.S. in Computer Science, expected 2027.
+- **Techtonica:** 2026 cohort, with hands-on full-stack development training and a sponsored apprenticeship at PlayStation.
+- **Research & data:** Background in bioinformatics, analytical workflows, and reproducible data processing.
 
 ### 🛠️ Languages & Tools
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,r,mysql,html,css,js,react,flask,tensorflow,git,linux,vscode&perline=10" />
-  </a>
-</div>
+| Area                | Technologies                                                       |
+| :------------------ | :----------------------------------------------------------------- |
+| Languages           | Java, Python, JavaScript, TypeScript, SQL, R                       |
+| Backend             | Spring Boot, Node.js, Express, Flask, REST APIs                    |
+| Frontend            | React, HTML, CSS                                                   |
+| Databases & Caching | PostgreSQL, MySQL, Oracle, Redis                                   |
+| Cloud & Delivery    | AWS, Docker, Jenkins, Git, Linux                                   |
+| Testing             | Jest, unit testing, integration testing, automated payment testing |
 
 ---
-
 ### 🚀 Featured Projects
-| Project Preview | Description & Links |
-| :---------------------------------------------------- | :----------------------------------------------------------- |
-| <img src="./assets/images/eventonica.gif" width="150" /> | **Eventonica — Full-Stack Event Management Platform 🎟️**<br>A full-stack event management application where users can browse, search, filter, and favorite events while managers can create, update, and delete events. Built with a RESTful API architecture and PostgreSQL relational database, with global state management using React's useReducer.<br><br>🛠 **Tech:** `React` `Node.js` `Express` `PostgreSQL` `REST API`<br><br>📂 [**Source Code**](https://github.com/shuwangs/eventonica) |
-| <img src="./assets/images/quiz-craft.gif" width="150" /> | **QuizCraft — Intelligent Trivia Game 🎯**<br>A full-stack trivia platform built with React and Express that fetches questions from the Open Trivia Database API. The app enhances learning by tracking mistakes and generating AI-powered explanations for incorrect answers using prompt engineering.<br><br>🛠 **Tech:** `React` `Node.js` `Express` `REST API` `Jest` `LLM Integration`<br><br>🔗 [**Live Demo**](https://trivia-game-app.vercel.app/) <br>📂 [**Source Code**](https://github.com/shuwangs/techtonica-assignments/tree/main/projects/trivia_app) |
-| <img src="./assets/images/portfolio_website.gif" width="150" height="100" /> | **Portfolio Website** 🌐<br>A fully responsive personal website showcasing my software engineering and data projects.<br><br>🛠 **Tech:** `HTML` `CSS` `JavaScript` `React`<br><br>🔗 [**Live Demo**](https://shu-su-wang.vercel.app/) <br>📂 [**Source Code**](https://github.com/shuwangs/portfolio-website) |
-| <img src="./assets/images/weather_app.gif" width="150" /> | **Full-Stack Weather application** 🌤️<br>A full-stack weather app that supports city-based and geolocation-based search, with Redis caching to reduce repeated API calls and improve performance. The UI dynamically adapts to day/night status and indicates whether data is cached or freshly fetched.<br><br>🛠 **Tech:** `React` `Node.js` `Express` `Redis` `REST API`<br><br>🔗 Live Demo (not deployed) <br>📂 [**Source Code**](https://github.com/shuwangs/techtonica-assignments/tree/main/projects/weather-app) |
-| <img src="./assets/images/purr-grammer.gif" width="150" /> | **Focus! Purr-grammer** 🐱<br>A React game where a cat programmer fixes bugs and errors.<br><br>🛠 **Tech:** `HTML` `CSS` `JavaScript` `React`<br><br>🔗 [**Live Demo**](https://focus-purr-grammer.vercel.app) <br>📂 [**Source Code**](https://github.com/shuwangs/techtonica-assignments/tree/main/projects/focus_purr-grammer) |
-| <img src="./assets/images/boggle_preview_small.jpg" width="150" height="150" /> | **Boggle Game** 🎮<br>A fast-paced word-finding puzzle game where players select adjacent letters to form words.<br><br>🛠 **Tech:** `HTML` `CSS` `JavaScript`<br><br>🔗 [**Live Demo**](https://boggleplay.vercel.app/) <br>📂 [**Source Code**](https://github.com/shuwangs/techtonica-assignments/tree/main/projects/js-html-game) |
-| <img src="./assets/images/peachtree_savings_club.jpg" width="150" height="150" /> | **Peachtree Savings Club Web App (CS6400)** 🏦<br>A full-stack web application designed to manage members, savings accounts, and transactions, with a strong focus on relational database design and query optimization.<br><br>🛠 **Tech:** `SQL` `Python` `Flask`<br><br>🔗 [**Live Demo**](https://www.youtube.com/watch?v=K-tss6z30vo) <br>📂 [**Source Code**](https://github.com/shuwangs/peachtree-savings-club-demo) |
-| <img src="./assets/images/job-comparison.jpg" width="150" height="150" /> | **Job Offer Comparison App (CS6300)** 📊<br>An Android application that helps users compare multiple job offers based on compensation, benefits, and personal preferences using object-oriented design principles.<br><br>🛠 **Tech:** `Java` `OOP` `Android Studio`<br><br>📂 [**Source Code**](https://github.com/shuwangs/cs6300/tree/main/GroupProject/JobCompare6300) |
-### 🚧 Works in Progress (Coming Soon)
 
-I'm currently cooking up these projects:
-* **JobBuddy** 🤖 (Dec-2025 - Current)
-    * Automated job details parsing and database management tool.
-    * 📂 [Source Code](https://github.com/shuwangs/JobBuddy)
-* **StudyCat** 🧩
-    * A productivity Chrome extension featuring a virtual pet companion.
-    * 📂 [Source Code](https://github.com/shuwangs/study_cat)
+#### CaseForge — Research Impact Dashboard
+
+A full-stack dashboard that brings publication imports, citation analytics, and AI-assisted summaries into one workflow, connecting my research background with software engineering.
+
+- Background workers collect and process citation data.
+- Authenticated users manage projects and saved analytics.
+- Includes Docker configuration and automated frontend/backend tests.
+
+**Tech:** TypeScript · React · PostgreSQL · BullMQ · Redis
+
+[Source Code](https://github.com/shuwangs/CaseForge) · [Watch Demo](https://youtu.be/CCA1onFAI0g)
+
+*Citation fetching runs locally; the hosted version currently lacks the background worker.*
+
+#### Eventonica — Event Management Platform
+
+A full-stack application for browsing, searching, filtering, and favoriting events, with event creation and management features.
+
+**Tech:** React · Node.js · Express · PostgreSQL · REST APIs
+
+[Source Code](https://github.com/shuwangs/eventonica)
+
+#### QuizCraft — AI-Assisted Trivia App
+
+A trivia application that fetches questions from the Open Trivia Database API, tracks incorrect answers, and provides AI-generated explanations.
+
+**Tech:** React · Node.js · Express · Jest · LLM Integration
+
+[Live Demo](https://trivia-game-app.vercel.app/) · [Source Code](https://github.com/shuwangs/techtonica-assignments/tree/main/projects/trivia_app)
+
+#### Full-Stack Weather App
+
+A weather application supporting city and geolocation searches, with Redis caching and a UI that distinguishes cached data from fresh results.
+
+**Tech:** React · Node.js · Express · Redis · REST APIs
+
+[Source Code](https://github.com/shuwangs/techtonica-assignments/tree/main/projects/weather-app)
+
+#### Job Offer Comparison App
+
+An Android application for comparing job offers using compensation, benefits, and user-defined preferences.
+
+**Tech:** Java · Object-Oriented Design · Android Studio
+
+[Source Code](https://github.com/shuwangs/cs6300/tree/main/GroupProject/JobCompare6300)
+
+**More projects:** [Explore my portfolio →](https://shu-su-wang.vercel.app/projects)
 
 ---
-## 📊 GitHub Stats
 
-<p align="center">
+### ✍️ Learning & Building
 
-<img src="https://github-readme-stats.vercel.app/api?username=shuwangs&show_icons=true&theme=tokyonight" height="170"/>
+I write about software concepts, project decisions, and lessons from debugging.
 
-<img src="https://streak-stats.demolab.com?user=shuwangs&theme=tokyonight" height="170"/>
-
-</p>
+[Read my blog →](https://shu-su-wang.vercel.app/blog)
 
 ---
 
-### 🐱 About My Cat
+### 🐱 Meet My Pair Programmer
 
 <div align="center">
-  <img src="assets/images/bobo.jpg" width="100" />
+  <img src="./assets/images/bobo.jpg" width="120" alt="My cat, Bobo" />
   <p>
-    When I'm not coding, I’m usually hanging out with my cat <b>Bobo</b>. <br>
-    He's taken his role as my “pair programmer” very seriously — especially when I'm debugging! 🐾
+    This is <strong>Bobo</strong>, my unofficial pair programmer.<br>
+    His specialties include keyboard inspections and debugging supervision. 🐾
   </p>
 </div>
 
 ---
 
-> 💛 Thanks for visiting my GitHub! I'm proud of every small step I have taken in this road.
+> 💛 Thanks for stopping by! Feel free to explore my projects or connect with me.

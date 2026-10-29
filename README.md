@@ -1,6 +1,6 @@
 # Hi there, I'm Shu Wang! 👋
 
-[✨ Check my Personal Website ✨](https://shu-su-wang.vercel.app/)![Profile views](https://komarev.com/ghpvc/?username=shuwangs&color=green)
+[✨ Check my Personal Website ✨](https://shu-su-wang.vercel.app/)
 
 ## About Me
 
